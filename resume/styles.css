@@ -1,0 +1,11 @@
+header h1,h2{
+    color: blueviolet;
+}
+
+header{
+    text-align: center;
+}
+
+hr{
+    border-color: blueviolet;
+}
